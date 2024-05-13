@@ -54,4 +54,4 @@ Add four runtime environment variables:
 
 ### Step 4: Deploy
 
-After setting up the function, deploy it. Once deployed, you'll find a 'Trigger URL' that you'll paste back into your LINEBot.
+After setting up the function, deploy it. Once deployed, you'll find a 'Trigger URL' that you'll paste back into your Line Bot.
